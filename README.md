@@ -10,10 +10,25 @@ Courses Taken:
 Microeconmics | Macroeconomics | Financial Accounting | Managerial Accounting |  
 Financial Analysis | Investment Analysis | Managerial Economics | SQL |  
 Python | Data Science Programming | Money and Banking | Financial Economics |  
-Econometrics | Data Wrangling   
+Econometrics | Data Wrangling | Machine Learning | Time Series Analysis |
+
 
 
 ## Work Experience
+
+**Real Estate Analyst**
+*Cowboy Capital*
+April 2025 - Present
+Rexburg, Idaho
+
+**Brokerage Intern**
+*Mountain West Commercial Real Estate*
+Janurary 2025 - April 2025
+Idaho Falls, Idaho
+- Complied and organized comparable property data into reports that streamlined the broker’s property evaluation process
+- Reviewed lease agreements to assess potential risks and determine property value impacts
+- Identified potential commercial lots matching client specifications for location, zoning, and price, and initiated contact with property owners
+
 
 **Water Technician**  
 *Paul Davis Restoration*   
@@ -23,13 +38,6 @@ Idaho Falls, Idaho
 - Trained multiple technicians on company standards
 - Trained and mentored technicians to meet company standards, ensuring consistant performance and quality
 - Worked during summers and in-between semesters
-
-**Appointment Setter**  
-*Sunergy Solar*  
-April 2023 - August 2023  
-Daytona, Florida  
-- Generated an average of 50 leads per moneth by education homeowners on the benefits of solar energy  
-- Assessed homeowner's elgibility for federal solar programs by evaluating income, credit, and power usage  
 
 **Finance Intern**  
 *W3 Wealth Management*  
@@ -55,7 +63,8 @@ Boise, Idaho
 - Covers valuation techniques, building income statements, and how to create debt, lease, waterfall and asset class specific models
 
 ## Skills  
-Microsoft Excel   
+Excel | Financial Modeling | Income Statement Analysis | Asset Management | Investor Reporting | Investment Marketing | 
+Python | R Programming | SQL | VBA | DCF Models | Machine Learning |
 
 ## About Me
 
